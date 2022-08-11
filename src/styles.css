@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: aqua;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: rgb(4, 226, 251);
+}
+
+.croissant-photo {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+}
